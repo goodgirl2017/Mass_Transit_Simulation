@@ -7,7 +7,7 @@
 
 This application is a Mass Transit Simulation (MTS) system. The prototype application that has been provided simulates the interaction of buses moving along a route of stops and allowing passengers to board and later depart the bus at different stops. **Click on the image below to watch the video**.
 
-[![Video demonstrating MTS system](images/VideoImag.png)](https://www.youtube.com/watch?v=g_WlNArpamA)
+[![Video demonstrating MTS system](images/videoImag.png)](https://www.youtube.com/watch?v=g_WlNArpamA)
 
 
 ## 2 Supported functions
